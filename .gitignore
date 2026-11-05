@@ -1,0 +1,7 @@
+.venv/
+.venv-temp/
+/control_pe14/
+/PE14/
+/PE14_dashboard_data/
+__pycache__/
+*.py[cod]
